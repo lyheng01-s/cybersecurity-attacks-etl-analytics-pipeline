@@ -1,0 +1,27 @@
+# Credentials
+.env
+sql_server.txt
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+
+# Files not needed in GitHub
+Data_Engineering_Slide.pdf
+How_To.txt
+How_To.md
+Solution1.ssmssln
