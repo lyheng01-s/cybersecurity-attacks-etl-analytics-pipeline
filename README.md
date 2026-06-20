@@ -1,4 +1,4 @@
-# # Cybersecurity Attacks ETL & Analytics Pipeline
+# Cybersecurity Attacks ETL & Analytics Pipeline
 
 ## Project Overview
 
